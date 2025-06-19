@@ -49,9 +49,10 @@ const Content3 = () => (
           {features.map((f) => (
             <li key={f.number} className="flex items-start">
               {/* Big lightly‑opaque number */}
-              <span className="text-[3rem] md:text-[4rem] font-bold text-[#2D3B36] text-opacity-20 w-16">
-                {f.number}
-              </span>
+             <span  className="text-[3rem] md:text-[4rem] font-bold w-20 h-[4rem] leading-none bg-gradient-to-b from-[#2D3B36] to-transparent text-transparent bg-clip-text  mr-6 mt-1">
+              {f.number}
+            </span>
+
 
               {/* Title + desc */}
               <div>
