@@ -1,3 +1,43 @@
+# 🌿 Skincare Landing Page
+
+A smooth and modern skincare landing page built with React.js. This project showcases elegant animations, responsive design, and thoughtful component structure — ideal for beauty and wellness brands.
+
+## ✨ Features
+
+- 🌱 Clean UI with bio-inspired design
+- 📱 Fully responsive across devices
+- 🎨 Smooth entry animation using React hooks
+- 💅 Styled with Tailwind CSS
+- 🧩 Modular component architecture
+
+## 🚀 Technologies Used
+
+- React.js
+- Tailwind CSS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
