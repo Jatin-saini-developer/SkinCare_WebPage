@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import '../App.css';  // make sure this file is imported
+import '../App.css';  
 
 const HeaderContent = () => {
   // The paragraph we want to animate

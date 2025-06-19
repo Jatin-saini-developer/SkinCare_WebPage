@@ -1,4 +1,4 @@
-// src/components/Content2.jsx
+
 import React from 'react';
 
 const Content2 = () => {

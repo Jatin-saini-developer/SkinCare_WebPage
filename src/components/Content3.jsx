@@ -1,4 +1,4 @@
-// src/components/WhyProducts.jsx
+
 import React from 'react';
 
 const features = [

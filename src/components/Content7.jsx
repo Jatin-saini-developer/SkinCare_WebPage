@@ -13,7 +13,7 @@ const Content7 = () => {
           />
           <div className="absolute bottom-4 left-4 bg-[#E4EAD9] flex items-center px-4 py-2 rounded-full">
             <span className="inline-block w-6 h-6 bg-[#2D2D2B] rounded-full mr-2">
-              {/* You can replace with an actual headphone icon */}
+              
             </span>
             <span className="text-sm text-[#2D2D2B]">
               24/7 We’re Here to Help You

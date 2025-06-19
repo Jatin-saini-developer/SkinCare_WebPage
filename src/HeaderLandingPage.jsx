@@ -7,10 +7,10 @@ const HeaderLandingPage = () => {
   const [visible, setVisible] = useState(false);
 
   useEffect(() => {
-    // Trigger animation after a short delay to simulate a loading screen transition
+    
     const timeout = setTimeout(() => {
       setVisible(true);
-    }, 300); // adjust for elegance
+    }, 300); 
 
     return () => clearTimeout(timeout);
   }, []);
